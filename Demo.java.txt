@@ -1,6 +1,6 @@
 public class Demo{
 
 	public void m1(){
-	
+		Sysout("inside m1 method")
 	}
 }
